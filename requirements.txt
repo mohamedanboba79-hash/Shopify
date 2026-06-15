@@ -1,0 +1,6 @@
+flask==3.0.0
+httpx==0.25.2
+fake-useragent==1.4.0
+beautifulsoup4==4.12.2
+gunicorn==21.2.0
+asyncio==3.4.3
